@@ -11,9 +11,9 @@
 Data Analysis involves inspecting, cleaning, transforming and modelling data to discover useful information and insights 
 
 ## Tools used 
-  -Microsoft Excel for data cleaning, Analysis and visualization.
-  -SQL ie Structured Query Language for Querying of data 
-  -GitHub for Portfolio building 
+    1. Microsoft Excel for data cleaning, Analysis and visualization.
+    2. SQL ie Structured Query Language for Querying of data 
+    3. GitHub for Portfolio building 
 
 ## SQL codes
   '''SQL
